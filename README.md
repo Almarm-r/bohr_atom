@@ -133,9 +133,9 @@ $$\nu = \frac{|\Delta E|}{h}$$
 
 Este proyecto fue desarrollado como parte de un taller colaborativo. Contribuciones:
 
-- **[Nombre 1]**: Implementación de cálculos de energía
-- **[Nombre 2]**: Funciones de transición y visualizaciones
-- **[Nombre 3]**: Pruebas unitarias y documentación
+- **[Maria Moreno, SolarPunk]**: Implementación de cálculos de energía
+- **[SolarPunk ]**: Funciones de transición y visualizaciones
+- **[Maria Moreno ]**: Pruebas unitarias y documentación
 
 ### Flujo de trabajo
 
